@@ -35,6 +35,8 @@ Puedes acceder a la aplicación web mediante el siguiente enlace:
 
 **[Ver proyecto](https://colaborador-multis.github.io/Multi-implantaciones/)**
 
+Profesor las credenciales se las comparti en el correo
+
 ## Objetivo
 
 El objetivo del proyecto es desarrollar una herramienta que permita organizar la información de las multiimplantaciones y analizar su relación con el comportamiento de las ventas, facilitando el seguimiento de estas acciones comerciales mediante datos históricos.
