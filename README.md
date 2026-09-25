@@ -8,19 +8,6 @@ El proyecto busca facilitar el registro y seguimiento de las multiimplantaciones
 
 A partir de la información registrada, el sistema permite consultar el historial de las multiimplantaciones y comparar el comportamiento de las ventas antes y después de una intervención.
 
-## Funcionalidades principales
-
-- Registro y consulta de productos.
-- Registro de multiimplantaciones.
-- Modificación y eliminación de multiimplantaciones.
-- Registro de ventas semanales.
-- Modificación de registros de ventas.
-- Consulta del historial de ventas.
-- Comparación de ventas antes y después de una multiimplantación.
-- Consulta de resultados e indicadores.
-- Gestión de usuarios y roles.
-- Registro de información histórica de ventas.
-
 ## Tecnologías utilizadas
 
 - HTML
@@ -36,6 +23,8 @@ Puedes acceder a la aplicación web mediante el siguiente enlace:
 **[Ver proyecto](https://colaborador-multis.github.io/Multi-implantaciones/)**
 
 Profesor las credenciales se las comparti en el correo
+
+### Tambien puede acceder descargandose la carpeta con todo el proyecto llamada decathlon-multiimplantaciones
 
 ## Objetivo
 
